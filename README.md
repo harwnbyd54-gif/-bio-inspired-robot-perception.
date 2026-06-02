@@ -1,4 +1,4 @@
-# 🤖 Bio-Inspired AI Robot: Pure Perception & Attention Tension Vectors
+# SimBot-Consciousness: Multi-Sensory Perception & Attention Tension Simulation
 
 An advanced, light-weight cognitive architecture simulating robotic consciousness. This project demonstrates how an autonomous agent can achieve system equilibrium through **Pure Perception** (avoiding computational overthinking), combined with a mathematical **Attention Tension Vector** model and a **Dual-Layer Auditory System**.
 
